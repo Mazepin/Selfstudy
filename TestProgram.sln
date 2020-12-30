@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr5CountValueEvenOdd", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr6SymbolCountMethod", "TestPr6SymbolCount\TestPr6SymbolCountMethod.csproj", "{168A678B-4BD8-410C-AED1-95B5F7294B8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr7NumberBackwards", "TestPr7NumberBackwards\TestPr7NumberBackwards.csproj", "{B0461F37-5FDF-4E62-9198-DE35799C5CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{168A678B-4BD8-410C-AED1-95B5F7294B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{168A678B-4BD8-410C-AED1-95B5F7294B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{168A678B-4BD8-410C-AED1-95B5F7294B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0461F37-5FDF-4E62-9198-DE35799C5CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0461F37-5FDF-4E62-9198-DE35799C5CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0461F37-5FDF-4E62-9198-DE35799C5CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0461F37-5FDF-4E62-9198-DE35799C5CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
