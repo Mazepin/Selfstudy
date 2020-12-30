@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr12 CombineArray", "Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr13 ConverteValueToNumberSystem", "TestPr13 ConverteValueToNumberSystem\TestPr13 ConverteValueToNumberSystem.csproj", "{2B627C79-5EF8-42D3-B493-D84D70DACD6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr14 CalculateFunction y = f(x)", "TestPr14 CalculateFunction y = f(x)\TestPr14 CalculateFunction y = f(x).csproj", "{73A1106F-9109-4F29-AEB2-87BE54A66606}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{2B627C79-5EF8-42D3-B493-D84D70DACD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B627C79-5EF8-42D3-B493-D84D70DACD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B627C79-5EF8-42D3-B493-D84D70DACD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A1106F-9109-4F29-AEB2-87BE54A66606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A1106F-9109-4F29-AEB2-87BE54A66606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A1106F-9109-4F29-AEB2-87BE54A66606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A1106F-9109-4F29-AEB2-87BE54A66606}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
