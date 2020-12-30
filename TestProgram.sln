@@ -13,23 +13,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr4Calculate", "TestPr4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr5CountValueEvenOdd", "Test5CountValueEvenOdd\TestPr5CountValueEvenOdd.csproj", "{6FA38DF9-F7D7-45B6-82D2-86F9C50E347A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr6SymbolCountMethod", "TestPr6SymbolCount\TestPr6SymbolCountMethod.csproj", "{168A678B-4BD8-410C-AED1-95B5F7294B8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr6SymbolCountMethod", "TestPr6SymbolCount\TestPr6SymbolCountMethod.csproj", "{168A678B-4BD8-410C-AED1-95B5F7294B8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr7NumberBackwards", "TestPr7NumberBackwards\TestPr7NumberBackwards.csproj", "{B0461F37-5FDF-4E62-9198-DE35799C5CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr7NumberBackwards", "TestPr7NumberBackwards\TestPr7NumberBackwards.csproj", "{B0461F37-5FDF-4E62-9198-DE35799C5CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr8OutputValueByIndex", "TestPr8OutputValueByIndex\TestPr8OutputValueByIndex.csproj", "{0CF6F323-2510-41D2-AD27-2F5979364F37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr8OutputValueByIndex", "TestPr8OutputValueByIndex\TestPr8OutputValueByIndex.csproj", "{0CF6F323-2510-41D2-AD27-2F5979364F37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr9 RemoveDigitFromNumber", "TestPr9 RemoveDigitFromNumber\TestPr9 RemoveDigitFromNumber.csproj", "{CAF330ED-98B1-43C3-9530-1413335DD352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr9 RemoveDigitFromNumber", "TestPr9 RemoveDigitFromNumber\TestPr9 RemoveDigitFromNumber.csproj", "{CAF330ED-98B1-43C3-9530-1413335DD352}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr10 MinMaxValueArray", "TestPr9 MinMaxValueArray\TestPr10 MinMaxValueArray.csproj", "{53086242-CB09-4B7F-861E-72B1D39AE950}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr10 MinMaxValueArray", "TestPr9 MinMaxValueArray\TestPr10 MinMaxValueArray.csproj", "{53086242-CB09-4B7F-861E-72B1D39AE950}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr11 SortingArray", "TestPr11 SortingArray\TestPr11 SortingArray.csproj", "{D709A977-88F6-4FA3-8413-4343DD90B3E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr11 SortingArray", "TestPr11 SortingArray\TestPr11 SortingArray.csproj", "{D709A977-88F6-4FA3-8413-4343DD90B3E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr12 CombineArray", "TestPr12 CombineArray\TestPr12 CombineArray.csproj", "{8AC359C0-97E2-4F27-A284-8CC8E19306DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr12 CombineArray", "TestPr12 CombineArray\TestPr12 CombineArray.csproj", "{8AC359C0-97E2-4F27-A284-8CC8E19306DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr13 ConverteValueToNumberSystem", "TestPr13 ConverteValueToNumberSystem\TestPr13 ConverteValueToNumberSystem.csproj", "{2B627C79-5EF8-42D3-B493-D84D70DACD6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr13 ConverteValueToNumberSystem", "TestPr13 ConverteValueToNumberSystem\TestPr13 ConverteValueToNumberSystem.csproj", "{2B627C79-5EF8-42D3-B493-D84D70DACD6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr14 CalculateFunction y = f(x)", "TestPr14 CalculateFunction y = f(x)\TestPr14 CalculateFunction y = f(x).csproj", "{73A1106F-9109-4F29-AEB2-87BE54A66606}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr14 CalculateFunction y = f(x)", "TestPr14 CalculateFunction y = f(x)\TestPr14 CalculateFunction y = f(x).csproj", "{73A1106F-9109-4F29-AEB2-87BE54A66606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr15 DrawTriangles", "TestPr15 DrawTriangles\TestPr15 DrawTriangles.csproj", "{04948B89-4A0C-4252-B04F-95A241E0EC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr16 DrawRectangle", "TestPr16 DrawRectangle\TestPr16 DrawRectangle.csproj", "{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{73A1106F-9109-4F29-AEB2-87BE54A66606}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73A1106F-9109-4F29-AEB2-87BE54A66606}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73A1106F-9109-4F29-AEB2-87BE54A66606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04948B89-4A0C-4252-B04F-95A241E0EC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04948B89-4A0C-4252-B04F-95A241E0EC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04948B89-4A0C-4252-B04F-95A241E0EC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04948B89-4A0C-4252-B04F-95A241E0EC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
