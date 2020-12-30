@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr9 RemoveDigitFromNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr10 MinMaxValueArray", "TestPr9 MinMaxValueArray\TestPr10 MinMaxValueArray.csproj", "{53086242-CB09-4B7F-861E-72B1D39AE950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr11 SortingArray", "TestPr11 SortingArray\TestPr11 SortingArray.csproj", "{D709A977-88F6-4FA3-8413-4343DD90B3E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{53086242-CB09-4B7F-861E-72B1D39AE950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53086242-CB09-4B7F-861E-72B1D39AE950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53086242-CB09-4B7F-861E-72B1D39AE950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D709A977-88F6-4FA3-8413-4343DD90B3E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D709A977-88F6-4FA3-8413-4343DD90B3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D709A977-88F6-4FA3-8413-4343DD90B3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D709A977-88F6-4FA3-8413-4343DD90B3E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
