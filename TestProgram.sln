@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr13 ConverteValueToNum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr14 CalculateFunction y = f(x)", "TestPr14 CalculateFunction y = f(x)\TestPr14 CalculateFunction y = f(x).csproj", "{73A1106F-9109-4F29-AEB2-87BE54A66606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr15 DrawTriangles", "TestPr15 DrawTriangles\TestPr15 DrawTriangles.csproj", "{04948B89-4A0C-4252-B04F-95A241E0EC22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr15 DrawTriangles", "TestPr15 DrawTriangles\TestPr15 DrawTriangles.csproj", "{04948B89-4A0C-4252-B04F-95A241E0EC22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr16 DrawRectangle", "TestPr16 DrawRectangle\TestPr16 DrawRectangle.csproj", "{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr16 DrawRectangle", "TestPr16 DrawRectangle\TestPr16 DrawRectangle.csproj", "{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr17 Massive", "TestPr17 Massive\TestPr17 Massive.csproj", "{00E66102-40A4-4E96-807C-105BCB6DD6A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00E66102-40A4-4E96-807C-105BCB6DD6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E66102-40A4-4E96-807C-105BCB6DD6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00E66102-40A4-4E96-807C-105BCB6DD6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00E66102-40A4-4E96-807C-105BCB6DD6A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

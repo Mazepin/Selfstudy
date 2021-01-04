@@ -6,7 +6,7 @@ namespace TestPr15_DrawTriangles
     {
         static void Main(string[] args)
         {
-            // рисуем прямоугольный треугольник, затем такой же на убывание
+            // рисуем прямоугольный треугольник, затем такой же на убывание. Потом перевернутые треугольники
 
             Console.Write("Введите высоту треугольника: ");
             int height = int.Parse(Console.ReadLine());
