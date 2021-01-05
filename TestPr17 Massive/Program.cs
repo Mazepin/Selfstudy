@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+
 
 namespace TestPr17_Massive
 {
@@ -76,6 +78,9 @@ namespace TestPr17_Massive
                     elementMinArray = myArray[i];
                 }
             }
+
+            // подсчет суммы четных чисел в одну строку. Только необходимо в начале добавить using System.Linq;
+            // Console.WriteLine(myArray.Where(i => i % 2 == 0).Sum());
 
             Console.WriteLine($"\nНаименьшее значение массива: {elementMinArray}");
 
