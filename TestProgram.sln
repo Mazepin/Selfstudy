@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr15 DrawTriangles", "T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr16 DrawRectangle", "TestPr16 DrawRectangle\TestPr16 DrawRectangle.csproj", "{05F1639F-78F7-4CBB-A4CC-C957E46C2E5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr17 Massive", "TestPr17 Massive\TestPr17 Massive.csproj", "{00E66102-40A4-4E96-807C-105BCB6DD6A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr17 Massive", "TestPr17 Massive\TestPr17 Massive.csproj", "{00E66102-40A4-4E96-807C-105BCB6DD6A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{D7300B4F-193F-43B5-AC64-BE375FDFF2E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{00E66102-40A4-4E96-807C-105BCB6DD6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00E66102-40A4-4E96-807C-105BCB6DD6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00E66102-40A4-4E96-807C-105BCB6DD6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7300B4F-193F-43B5-AC64-BE375FDFF2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7300B4F-193F-43B5-AC64-BE375FDFF2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7300B4F-193F-43B5-AC64-BE375FDFF2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7300B4F-193F-43B5-AC64-BE375FDFF2E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
