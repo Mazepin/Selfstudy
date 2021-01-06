@@ -21,6 +21,9 @@ namespace TEST
             Console.WriteLine(str[..6]);  // выводит элементы массива стрингового - Hello
             Console.WriteLine(str[^2..]);  // выводит последние 2 элемента -  =)
 
+
+            // вывод двумерного массива
+
             int[,] myArray2 =
             {
                 {3, 56, 55, 234, 12 },
