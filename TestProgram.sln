@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr17 Massive", "TestPr1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEST", "TEST\TEST.csproj", "{D7300B4F-193F-43B5-AC64-BE375FDFF2E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr18  Method outputs a string from characters", "TestPr18  Method outputs a string from characters\TestPr18  Method outputs a string from characters.csproj", "{5627860A-63E8-4688-895B-CD127D4FB07B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr18  Method outputs a string from characters", "TestPr18  Method outputs a string from characters\TestPr18  Method outputs a string from characters.csproj", "{5627860A-63E8-4688-895B-CD127D4FB07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr19 Кортежи (tuple)", "TestPr19 Кортежи (tuple)\TestPr19 Кортежи (tuple).csproj", "{E1C98ED6-B69C-44B6-B248-F2E1EAB9D72B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{5627860A-63E8-4688-895B-CD127D4FB07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5627860A-63E8-4688-895B-CD127D4FB07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5627860A-63E8-4688-895B-CD127D4FB07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C98ED6-B69C-44B6-B248-F2E1EAB9D72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C98ED6-B69C-44B6-B248-F2E1EAB9D72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C98ED6-B69C-44B6-B248-F2E1EAB9D72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C98ED6-B69C-44B6-B248-F2E1EAB9D72B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
