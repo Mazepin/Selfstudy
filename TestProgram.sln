@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr18  Method outputs a 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr19 Кортежи (tuple)", "TestPr19 Кортежи (tuple)\TestPr19 Кортежи (tuple).csproj", "{E1C98ED6-B69C-44B6-B248-F2E1EAB9D72B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr20 Constructor", "TestPr20 Constructor\TestPr20 Constructor.csproj", "{69E488F4-644D-4DCD-8FA0-CCC101913525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr20 Constructor", "TestPr20 Constructor\TestPr20 Constructor.csproj", "{69E488F4-644D-4DCD-8FA0-CCC101913525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr21 List", "TestPr21 List\TestPr21 List.csproj", "{22B27B32-8F1C-470F-99BD-4E41CC3A51E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{69E488F4-644D-4DCD-8FA0-CCC101913525}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69E488F4-644D-4DCD-8FA0-CCC101913525}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69E488F4-644D-4DCD-8FA0-CCC101913525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B27B32-8F1C-470F-99BD-4E41CC3A51E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B27B32-8F1C-470F-99BD-4E41CC3A51E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B27B32-8F1C-470F-99BD-4E41CC3A51E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B27B32-8F1C-470F-99BD-4E41CC3A51E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
