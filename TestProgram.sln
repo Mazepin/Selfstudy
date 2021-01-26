@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr21 List", "TestPr21 L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr22 Params", "TestPr22 Params\TestPr22 Params.csproj", "{876D6EF2-6E75-4FAB-8553-29DC934ACBE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr23 Thread basic knowledge", "TestPr23 Thread basic knowledge\TestPr23 Thread basic knowledge.csproj", "{41640979-619C-4575-A0E0-A1B0EA992EC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{876D6EF2-6E75-4FAB-8553-29DC934ACBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{876D6EF2-6E75-4FAB-8553-29DC934ACBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{876D6EF2-6E75-4FAB-8553-29DC934ACBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41640979-619C-4575-A0E0-A1B0EA992EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41640979-619C-4575-A0E0-A1B0EA992EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41640979-619C-4575-A0E0-A1B0EA992EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41640979-619C-4575-A0E0-A1B0EA992EC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
