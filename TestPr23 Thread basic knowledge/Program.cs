@@ -19,6 +19,13 @@ namespace TestPr23_Thread_basic_knowledge
 
             Console.Read(); // приостанавливаем основной поток
 
+            
+            Console.WriteLine($"Запущен ли поток:  {myThread.IsAlive}");  // запущен ли поток
+            // Console.WriteLine($"Приоритет потока:  {myThread.Priority}");
+            Console.WriteLine($"Статус потока:  {myThread.ThreadState}");  // статус потока
+
+            Console.ReadKey();
+
             // функция запускаемая из другого потока
 
             static void func()
@@ -30,6 +37,7 @@ namespace TestPr23_Thread_basic_knowledge
                 }
             }
 
+            Console.ReadKey();
 
 
         }
