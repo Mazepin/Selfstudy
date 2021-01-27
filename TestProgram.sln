@@ -47,9 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr20 Constructor", "Tes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr21 List", "TestPr21 List\TestPr21 List.csproj", "{22B27B32-8F1C-470F-99BD-4E41CC3A51E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr22 Params", "TestPr22 Params\TestPr22 Params.csproj", "{876D6EF2-6E75-4FAB-8553-29DC934ACBE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr22 Params", "TestPr22 Params\TestPr22 Params.csproj", "{876D6EF2-6E75-4FAB-8553-29DC934ACBE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr23 Thread basic knowledge", "TestPr23 Thread basic knowledge\TestPr23 Thread basic knowledge.csproj", "{41640979-619C-4575-A0E0-A1B0EA992EC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr23 Thread basic knowledge", "TestPr23 Thread basic knowledge\TestPr23 Thread basic knowledge.csproj", "{41640979-619C-4575-A0E0-A1B0EA992EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr24 Рекурсия", "TestPr24 Рекурсия\TestPr24 Рекурсия.csproj", "{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{41640979-619C-4575-A0E0-A1B0EA992EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41640979-619C-4575-A0E0-A1B0EA992EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41640979-619C-4575-A0E0-A1B0EA992EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
