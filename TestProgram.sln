@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr22 Params", "TestPr22
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr23 Thread basic knowledge", "TestPr23 Thread basic knowledge\TestPr23 Thread basic knowledge.csproj", "{41640979-619C-4575-A0E0-A1B0EA992EC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr24 Рекурсия", "TestPr24 Рекурсия\TestPr24 Рекурсия.csproj", "{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr24 Рекурсия Outputting an array using recursion", "TestPr24 Рекурсия\TestPr24 Рекурсия Outputting an array using recursion.csproj", "{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr24.1 Рекурсия Outputting the sum of array elements using recursion", "TestPr24.1 Рекурсия\TestPr24.1 Рекурсия Outputting the sum of array elements using recursion.csproj", "{7590445C-4464-4886-99B1-BD111E0E1771}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7590445C-4464-4886-99B1-BD111E0E1771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7590445C-4464-4886-99B1-BD111E0E1771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7590445C-4464-4886-99B1-BD111E0E1771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7590445C-4464-4886-99B1-BD111E0E1771}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
