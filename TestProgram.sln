@@ -41,7 +41,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TEST", "TEST\TEST.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr18  Method outputs a string from characters", "TestPr18  Method outputs a string from characters\TestPr18  Method outputs a string from characters.csproj", "{5627860A-63E8-4688-895B-CD127D4FB07B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr19 Кортежи (tuple)", "TestPr19 Кортежи (tuple)\TestPr19 Кортежи (tuple).csproj", "{E1C98ED6-B69C-44B6-B248-F2E1EAB9D72B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr19 Tuple", "TestPr19 Кортежи (tuple)\TestPr19 Tuple.csproj", "{E1C98ED6-B69C-44B6-B248-F2E1EAB9D72B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr20 Constructor", "TestPr20 Constructor\TestPr20 Constructor.csproj", "{69E488F4-644D-4DCD-8FA0-CCC101913525}"
 EndProject
@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr23 Thread basic knowl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr24 Рекурсия Outputting an array using recursion", "TestPr24 Рекурсия\TestPr24 Рекурсия Outputting an array using recursion.csproj", "{4DDAAD17-E001-4C6C-9A4C-42C65497C2DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr24.1 Рекурсия Outputting the sum of array elements using recursion", "TestPr24.1 Рекурсия\TestPr24.1 Рекурсия Outputting the sum of array elements using recursion.csproj", "{7590445C-4464-4886-99B1-BD111E0E1771}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr24.1 Рекурсия Outputting the sum of array elements using recursion", "TestPr24.1 Рекурсия\TestPr24.1 Рекурсия Outputting the sum of array elements using recursion.csproj", "{7590445C-4464-4886-99B1-BD111E0E1771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr25.1 Enum Part1", "TestPr25.1 Enum Part1\TestPr25.1 Enum Part1.csproj", "{1300ECFB-C678-4663-B2CA-DA93375C1A81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{7590445C-4464-4886-99B1-BD111E0E1771}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7590445C-4464-4886-99B1-BD111E0E1771}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7590445C-4464-4886-99B1-BD111E0E1771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1300ECFB-C678-4663-B2CA-DA93375C1A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1300ECFB-C678-4663-B2CA-DA93375C1A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1300ECFB-C678-4663-B2CA-DA93375C1A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1300ECFB-C678-4663-B2CA-DA93375C1A81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
