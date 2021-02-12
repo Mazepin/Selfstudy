@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr25.2 Enum Part2", "Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr25.3 Enum Part3", "TestPr25.3 Enum Part3\TestPr25.3 Enum Part3.csproj", "{52C5724B-C8C9-42CF-8E8B-B46B08915478}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr26.1 OOP (object oriented programming) Part1", "TestPr26 OOP (object oriented programming)\TestPr26.1 OOP (object oriented programming) Part1.csproj", "{6436C83D-D05E-430B-8212-2EA67E0ABC8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr26.2 OOP (object oriented programming) Part2", "TestPr26.2 OOP (object oriented programming) Part2\TestPr26.2 OOP (object oriented programming) Part2.csproj", "{EAC89431-1306-42CA-920B-170E4B07DEDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{52C5724B-C8C9-42CF-8E8B-B46B08915478}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52C5724B-C8C9-42CF-8E8B-B46B08915478}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52C5724B-C8C9-42CF-8E8B-B46B08915478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6436C83D-D05E-430B-8212-2EA67E0ABC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6436C83D-D05E-430B-8212-2EA67E0ABC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6436C83D-D05E-430B-8212-2EA67E0ABC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6436C83D-D05E-430B-8212-2EA67E0ABC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
