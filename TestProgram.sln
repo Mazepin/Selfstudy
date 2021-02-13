@@ -55,15 +55,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr24 Рекурсия O
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr24.1 Рекурсия Outputting the sum of array elements using recursion", "TestPr24.1 Рекурсия\TestPr24.1 Рекурсия Outputting the sum of array elements using recursion.csproj", "{7590445C-4464-4886-99B1-BD111E0E1771}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr25.1 Enum Part1", "TestPr25.1 Enum Part1\TestPr25.1 Enum Part1.csproj", "{1300ECFB-C678-4663-B2CA-DA93375C1A81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr25.1 Enum Part1", "TestPr25.1 Enum Part1\TestPr25.1 Enum Part1.csproj", "{1300ECFB-C678-4663-B2CA-DA93375C1A81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr25.2 Enum Part2", "TestPr25.2 Enum Part2\TestPr25.2 Enum Part2.csproj", "{0DE11CF0-7412-4493-A11A-98C0A6040B26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr25.2 Enum Part2", "TestPr25.2 Enum Part2\TestPr25.2 Enum Part2.csproj", "{0DE11CF0-7412-4493-A11A-98C0A6040B26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr25.3 Enum Part3", "TestPr25.3 Enum Part3\TestPr25.3 Enum Part3.csproj", "{52C5724B-C8C9-42CF-8E8B-B46B08915478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr25.3 Enum Part3", "TestPr25.3 Enum Part3\TestPr25.3 Enum Part3.csproj", "{52C5724B-C8C9-42CF-8E8B-B46B08915478}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr26.1 OOP (object oriented programming) Part1", "TestPr26 OOP (object oriented programming)\TestPr26.1 OOP (object oriented programming) Part1.csproj", "{6436C83D-D05E-430B-8212-2EA67E0ABC8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.1 OOP (object oriented programming) Part1", "TestPr26 OOP (object oriented programming)\TestPr26.1 OOP (object oriented programming) Part1.csproj", "{6436C83D-D05E-430B-8212-2EA67E0ABC8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr26.2 OOP (object oriented programming) Part2", "TestPr26.2 OOP (object oriented programming) Part2\TestPr26.2 OOP (object oriented programming) Part2.csproj", "{EAC89431-1306-42CA-920B-170E4B07DEDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.2 OOP (object oriented programming) Part2", "TestPr26.2 OOP (object oriented programming) Part2\TestPr26.2 OOP (object oriented programming) Part2.csproj", "{EAC89431-1306-42CA-920B-170E4B07DEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr27 dll creating a class library", "TestPr27 dll creating a class library\TestPr27 dll creating a class library.csproj", "{76AF99DA-DDD3-4A9C-B06B-88DD65DA98BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AF99DA-DDD3-4A9C-B06B-88DD65DA98BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AF99DA-DDD3-4A9C-B06B-88DD65DA98BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AF99DA-DDD3-4A9C-B06B-88DD65DA98BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AF99DA-DDD3-4A9C-B06B-88DD65DA98BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
