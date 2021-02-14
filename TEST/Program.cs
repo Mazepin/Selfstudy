@@ -7,7 +7,7 @@ namespace TEST
     {
         static void Main(string[] args)
         {
-            
+
             int[] myArray = { 2, 45, 846, 231, 5, 78, 34, 88 };
 
             Console.WriteLine(myArray[^1]);  //выводит первый элемент с конца
@@ -39,14 +39,10 @@ namespace TEST
             {
                 for (int j = 0; j < width; j++)
                 {
-                    Console.Write(myArray2[i,j] + " ");
+                    Console.Write(myArray2[i, j] + " ");
                 }
                 Console.WriteLine();
             }
-
-
-
-            Console.ReadLine();
         }
     }
 }

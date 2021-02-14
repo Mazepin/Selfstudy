@@ -65,6 +65,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.1 OOP (object orie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.2 OOP (object oriented programming) Part2", "TestPr26.2 OOP (object oriented programming) Part2\TestPr26.2 OOP (object oriented programming) Part2.csproj", "{EAC89431-1306-42CA-920B-170E4B07DEDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr21.1 Delegate", "TestPr21.1 Delegate\TestPr21.1 Delegate.csproj", "{9F465C56-AE91-43AD-B75A-05FFF49C09EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC89431-1306-42CA-920B-170E4B07DEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F465C56-AE91-43AD-B75A-05FFF49C09EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F465C56-AE91-43AD-B75A-05FFF49C09EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F465C56-AE91-43AD-B75A-05FFF49C09EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F465C56-AE91-43AD-B75A-05FFF49C09EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
