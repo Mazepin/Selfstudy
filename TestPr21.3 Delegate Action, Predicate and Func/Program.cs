@@ -4,6 +4,8 @@ namespace TestPr21._3_Delegate_Action__Predicate_and_Func
 {
     class Program
     {
+
+
         // Delegate Action, Predicate & Func
 
         //public delegate void Action(); // можно не объявлять вот так, т.к. Action это уже подразумевает
@@ -11,7 +13,9 @@ namespace TestPr21._3_Delegate_Action__Predicate_and_Func
 
         static void Main(string[] args)
         {
-       // ACTION
+
+            #region DELEGATE
+            // ACTION
 
             Action action = Method1; // объявляем делегат и присваеваем ему значение метода1. Выше эту делегату можно не объявлять!!!
             action();
@@ -36,14 +40,25 @@ namespace TestPr21._3_Delegate_Action__Predicate_and_Func
        // FUNC
 
             Func<string, char, int> function1;  // СООТВЕТСТВУЕТ public delegate int Func(string str, char c)
-                                          // ПОСЛЕДНИЙ параметр int - это мы задаем тип возвращаемого значения
-                                          // далее до 16 штук типы аргументов, может их не быть
+                                                // ПОСЛЕДНИЙ параметр int - это мы задаем тип возвращаемого значения
+                                                // далее до 16 штук типы аргументов, может их не быть
+            Func<int, int> function2 = ValueMethod;
 
+            function2?.Invoke((new Random().Next(1000)));  // обязательно нужно делать проверку
+            // или можно было записать так эту строку
+            // if (function2 != null)   
+            // function2((new Random().Next(1000)));
 
 
             Console.ReadLine();
         }
 
+
+        public static int ValueMethod(int i)
+        {
+            Console.WriteLine(i);
+            return i;
+        }
         static void Method1()
         {
             Console.WriteLine("Method1");
@@ -53,5 +68,6 @@ namespace TestPr21._3_Delegate_Action__Predicate_and_Func
             Console.WriteLine("Method2");
             return 0;
         }
+        #endregion
     }
 }
