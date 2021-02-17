@@ -67,9 +67,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.2 OOP (object orie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr21.1 Delegate", "TestPr21.1 Delegate\TestPr21.1 Delegate.csproj", "{9F465C56-AE91-43AD-B75A-05FFF49C09EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr21.2 Delegate Part2 Code Blog", "TestPr21.2 Delegate Part2 Code Blog\TestPr21.2 Delegate Part2 Code Blog.csproj", "{CCBCF58E-6978-4022-B362-7E8A72B2C4BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr21.2 Delegate Part2 Code Blog", "TestPr21.2 Delegate Part2 Code Blog\TestPr21.2 Delegate Part2 Code Blog.csproj", "{CCBCF58E-6978-4022-B362-7E8A72B2C4BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr21.3 Delegate Action, Predicate and Func", "TestPr21.3 Delegate Action, Predicate and Func\TestPr21.3 Delegate Action, Predicate and Func.csproj", "{5C80A914-0818-4A90-88A5-981BDCD7419C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr21.3 Delegate Action, Predicate and Func", "TestPr21.3 Delegate Action, Predicate and Func\TestPr21.3 Delegate Action, Predicate and Func.csproj", "{5C80A914-0818-4A90-88A5-981BDCD7419C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr21.4 Delegate Event", "TestPr21.4 Delegate Event\TestPr21.4 Delegate Event.csproj", "{209D211E-3D36-4CBF-AFE9-1C247D7CEF86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{5C80A914-0818-4A90-88A5-981BDCD7419C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C80A914-0818-4A90-88A5-981BDCD7419C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C80A914-0818-4A90-88A5-981BDCD7419C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209D211E-3D36-4CBF-AFE9-1C247D7CEF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209D211E-3D36-4CBF-AFE9-1C247D7CEF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209D211E-3D36-4CBF-AFE9-1C247D7CEF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209D211E-3D36-4CBF-AFE9-1C247D7CEF86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
