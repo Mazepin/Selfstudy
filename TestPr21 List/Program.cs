@@ -11,18 +11,25 @@ namespace TestPr21_List
 
             List<int> number = new List<int>() { 2, 34, 7, 68, 9 };
 
+            foreach (int i in number)
+            {
+                Console.Write(i + " ");
+            }
+
             number.Add(6); // добавление элемента
 
             number.Insert(0, 777); // вставляем на первое место в списке число 777
 
             number.RemoveAt(1); // удаляем второй элемент
 
+            Console.WriteLine();
+
             foreach (int i in number)
             {
-                Console.WriteLine(i);
+                Console.Write($"{i} ");
             }
 
-            Console.WriteLine("=====================");
+            Console.WriteLine("\n=====================");
             List<Person> people = new List<Person>();
             people.Add(new Person() { Name = "Igor" });
             people.Add(new Person() { Name = "Bill" });
