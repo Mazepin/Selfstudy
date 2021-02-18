@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr21.3 Delegate Action,
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr21.4 Delegate Event", "TestPr21.4 Delegate Event\TestPr21.4 Delegate Event.csproj", "{209D211E-3D36-4CBF-AFE9-1C247D7CEF86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr26.3 OOP (object oriented programming) Part3 Inheritance", "TestPr26.3 OOP (object oriented programming) Part3 Inheritance\TestPr26.3 OOP (object oriented programming) Part3 Inheritance.csproj", "{54ADB2E0-5CA8-4DC4-BCD0-6FB1E26F47C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.3 OOP (object oriented programming) Part3 Inheritance", "TestPr26.3 OOP (object oriented programming) Part3 Inheritance\TestPr26.3 OOP (object oriented programming) Part3 Inheritance.csproj", "{54ADB2E0-5CA8-4DC4-BCD0-6FB1E26F47C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr26.4 OOP (object oriented programming) Part4", "TestPr26.4 OOP (object oriented programming) Part4\TestPr26.4 OOP (object oriented programming) Part4.csproj", "{0B8D262E-8401-4793-B7CC-88C3661DBF52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{54ADB2E0-5CA8-4DC4-BCD0-6FB1E26F47C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54ADB2E0-5CA8-4DC4-BCD0-6FB1E26F47C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54ADB2E0-5CA8-4DC4-BCD0-6FB1E26F47C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8D262E-8401-4793-B7CC-88C3661DBF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8D262E-8401-4793-B7CC-88C3661DBF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8D262E-8401-4793-B7CC-88C3661DBF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8D262E-8401-4793-B7CC-88C3661DBF52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
