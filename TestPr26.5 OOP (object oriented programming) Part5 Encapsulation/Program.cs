@@ -2,35 +2,35 @@
 
 namespace TestPr26._5_OOP__object_oriented_programming__Part5_Encapsulation
 {
-    class Program
+    // OOP Part5 Encapsulation
+
+    class Gun
     {
-        // OOP Part5 Encapsulation
+        private bool isLoaded; // обязательное условие для выстрела, поэтому ставим private и инкапсулируем
 
-        class Gun
+        private void ReLoad()  // инкапсулируем 
         {
-            private bool isLoaded; // обязательное условие для выстрела, поэтому ставим private и инкапсулируем
+            Console.WriteLine("Loading weapon...");
 
-            private void ReLoad()  // инкапсулируем 
-            {
-                Console.WriteLine("Loading weapon...");
+            isLoaded = true;
 
-                isLoaded = true;
-
-                Console.WriteLine("The gun is loaded");
-            }
-
-            public void Shoot()
-            {
-                if (!isLoaded)
-                {
-                    Console.WriteLine("The gun is not loaded...");
-                    ReLoad();
-                }
-                Console.WriteLine("Shot!!!");
-                isLoaded = false;
-            }
-
+            Console.WriteLine("The gun is loaded");
         }
+
+        public void Shoot()
+        {
+            if (!isLoaded)
+            {
+                Console.WriteLine("The gun is not loaded...");
+                ReLoad();
+            }
+            Console.WriteLine("Shot!!!");
+            isLoaded = false;
+        }
+
+    }
+    class program
+    {
         static void Main(string[] args)
         {
             Gun gun = new Gun();
