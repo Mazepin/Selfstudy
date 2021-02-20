@@ -6,26 +6,30 @@ namespace TestPr26._5_OOP__object_oriented_programming__Part5_Encapsulation
 
     class Gun
     {
-        private bool isLoaded; // обязательное условие для выстрела, поэтому ставим private и инкапсулируем
+        public Gun(bool isLoaded)
+        {
+            _isLoaded = isLoaded;
+        }
+        private bool _isLoaded; // обязательное условие для выстрела, поэтому ставим private и инкапсулируем
 
         private void ReLoad()  // инкапсулируем 
         {
             Console.WriteLine("Loading weapon...");
 
-            isLoaded = true;
+            _isLoaded = true;
 
             Console.WriteLine("The gun is loaded");
         }
 
         public void Shoot()
         {
-            if (!isLoaded)
+            if (!_isLoaded)
             {
                 Console.WriteLine("The gun is not loaded...");
                 ReLoad();
             }
             Console.WriteLine("Shot!!!");
-            isLoaded = false;
+            _isLoaded = false;
         }
 
     }
@@ -33,8 +37,13 @@ namespace TestPr26._5_OOP__object_oriented_programming__Part5_Encapsulation
     {
         static void Main(string[] args)
         {
-            Gun gun = new Gun();
+            Gun gun = new Gun(true);  // если заряжен
             gun.Shoot();
+            Console.WriteLine("========");
+
+
+            Gun gun1 = new Gun(false);  // если не заряжен
+            gun1.Shoot();
 
             Console.ReadKey();
         }

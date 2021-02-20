@@ -77,7 +77,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.3 OOP (object orie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.4 OOP (object oriented programming) Part4", "TestPr26.4 OOP (object oriented programming) Part4\TestPr26.4 OOP (object oriented programming) Part4.csproj", "{0B8D262E-8401-4793-B7CC-88C3661DBF52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr26.5 OOP (object oriented programming) Part5 Encapsulation", "TestPr26.5 OOP (object oriented programming) Part5 Encapsulation\TestPr26.5 OOP (object oriented programming) Part5 Encapsulation.csproj", "{38E4DD82-1AE6-4292-B1B6-E9C4932A2E20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.5 OOP (object oriented programming) Part5 Encapsulation", "TestPr26.5 OOP (object oriented programming) Part5 Encapsulation\TestPr26.5 OOP (object oriented programming) Part5 Encapsulation.csproj", "{38E4DD82-1AE6-4292-B1B6-E9C4932A2E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr13.2 ConverteValueToNumberSystem Part2 TryParse and Convert", "TestPr13.2 ConverteValueToNumberSystem Part2 TryParse and Convert\TestPr13.2 ConverteValueToNumberSystem Part2 TryParse and Convert.csproj", "{B01D0234-F080-4162-A6BD-1BEF13A6C6ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{38E4DD82-1AE6-4292-B1B6-E9C4932A2E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38E4DD82-1AE6-4292-B1B6-E9C4932A2E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38E4DD82-1AE6-4292-B1B6-E9C4932A2E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01D0234-F080-4162-A6BD-1BEF13A6C6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01D0234-F080-4162-A6BD-1BEF13A6C6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01D0234-F080-4162-A6BD-1BEF13A6C6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01D0234-F080-4162-A6BD-1BEF13A6C6ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
