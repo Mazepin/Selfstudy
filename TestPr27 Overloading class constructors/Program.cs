@@ -18,12 +18,12 @@ namespace TestPr27_Overloading_class_constructors
             _berthday = berthday;
         }
 
-        public Student(string firstName, string middleName, string lastName, DateTime berthday)
+        public Student(string firstName, string middleName, string lastName, DateTime berthday) : this(lastName, berthday)
         {
             _firstName = firstName;
             _middleName = middleName;
-            _lastName = lastName;
-            _berthday = berthday;
+            //_lastName = lastName;  // передали эти параметры через this (смотри выше) из другого метода
+            //_berthday = berthday;
         }
 
         public Student(Student student) // Overloading class constructors
