@@ -83,7 +83,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr13.2 ConverteValueToN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.6 OOP (object oriented programming) Part6 Calculate using Method", "TestPr26.6 OOP (object oriented programming) Part6 Calculate using Method\TestPr26.6 OOP (object oriented programming) Part6 Calculate using Method.csproj", "{E6B97001-B779-4D6E-84DB-B3047ABA387B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr8.1 Key Pressed detection", "TestPr8.1 Key Pressed detection\TestPr8.1 Key Pressed detection.csproj", "{9ADF04FE-0A2D-49B7-8F9A-E79FC856EAE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr8.1 Key Pressed detection", "TestPr8.1 Key Pressed detection\TestPr8.1 Key Pressed detection.csproj", "{9ADF04FE-0A2D-49B7-8F9A-E79FC856EAE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr27 Overloading class constructors", "TestPr27 Overloading class constructors\TestPr27 Overloading class constructors.csproj", "{9331CBDC-FAE8-4F42-AD6E-BBD1EDF37144}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{9ADF04FE-0A2D-49B7-8F9A-E79FC856EAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ADF04FE-0A2D-49B7-8F9A-E79FC856EAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ADF04FE-0A2D-49B7-8F9A-E79FC856EAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9331CBDC-FAE8-4F42-AD6E-BBD1EDF37144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9331CBDC-FAE8-4F42-AD6E-BBD1EDF37144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9331CBDC-FAE8-4F42-AD6E-BBD1EDF37144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9331CBDC-FAE8-4F42-AD6E-BBD1EDF37144}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
