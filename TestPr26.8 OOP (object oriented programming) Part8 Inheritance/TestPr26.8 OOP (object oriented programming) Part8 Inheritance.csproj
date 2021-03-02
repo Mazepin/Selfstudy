@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TestPr26._8_OOP__object_oriented_programming__Part8_Inheritance</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -93,7 +93,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr29 Extantion method",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr30 Const vs Readonly", "TestPr30 Const vs Readonly\TestPr30 Const vs Readonly.csproj", "{ACB165E6-79DF-4541-B46F-3D5E97E8F200}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr26.7 OOP (object oriented programming) Part7 Object initialization syntax", "TestPr26.7 OOP (object oriented programming) Part7 Object initialization syntax\TestPr26.7 OOP (object oriented programming) Part7 Object initialization syntax.csproj", "{95E6376D-3F15-4C0B-80EE-1A0486B73B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestPr26.7 OOP (object oriented programming) Part7 Object initialization syntax", "TestPr26.7 OOP (object oriented programming) Part7 Object initialization syntax\TestPr26.7 OOP (object oriented programming) Part7 Object initialization syntax.csproj", "{95E6376D-3F15-4C0B-80EE-1A0486B73B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPr26.8 OOP (object oriented programming) Part8 Inheritance", "TestPr26.8 OOP (object oriented programming) Part8 Inheritance\TestPr26.8 OOP (object oriented programming) Part8 Inheritance.csproj", "{5140DDD3-7990-4BA6-BF96-B9BFAF095414}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +287,10 @@ Global
 		{95E6376D-3F15-4C0B-80EE-1A0486B73B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95E6376D-3F15-4C0B-80EE-1A0486B73B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95E6376D-3F15-4C0B-80EE-1A0486B73B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5140DDD3-7990-4BA6-BF96-B9BFAF095414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5140DDD3-7990-4BA6-BF96-B9BFAF095414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5140DDD3-7990-4BA6-BF96-B9BFAF095414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5140DDD3-7990-4BA6-BF96-B9BFAF095414}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
